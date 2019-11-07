@@ -19,9 +19,5 @@
   "devDependencies": {
     "redux-logger": "^3.0.6",
     "webpack-dev-server": "^3.9.0"
-  },
-  "scripts": {
-    "build": "webpack",
-    "start": "webpack-dev-server"
   }
 }
